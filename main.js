@@ -128,6 +128,3 @@ client.on('message', message => {
 
 client.login('BotToken');
 
-// Thank you for downloading my first project! If you want to see the bot in action join my FiveM discord! https://discord.gg/P5ASyCF4HA.
-// If you have any problems please feel free to make a ticket on that discord and request for me personally. 
-// For a tutorial please look at this video: 
